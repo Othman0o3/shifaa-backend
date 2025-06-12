@@ -1,0 +1,98 @@
+[
+{
+  "model": "doctors.doctor",
+  "pk": 1,
+  "fields": {
+    "name": "عثمان العالم",
+    "speciality": "جراحة أعصاب",
+    "phone": "091002831",
+    "hospital": "مشفى الحياة",
+    "available_from": "09:00:00",
+    "available_to": "13:00:00"
+  }
+},
+{
+  "model": "doctors.doctor",
+  "pk": 2,
+  "fields": {
+    "name": "محمد ضياء الدين العالم",
+    "speciality": "تخدير و عناية فائقة",
+    "phone": "092423453",
+    "hospital": "مشفى الحياة",
+    "available_from": "12:00:00",
+    "available_to": "16:00:00"
+  }
+},
+{
+  "model": "doctors.doctor",
+  "pk": 3,
+  "fields": {
+    "name": "أحمد محمد",
+    "speciality": "جراحة عظام",
+    "phone": "09123453",
+    "hospital": "مشفى",
+    "available_from": "14:00:00",
+    "available_to": "18:00:00"
+  }
+},
+{
+  "model": "doctors.doctor",
+  "pk": 4,
+  "fields": {
+    "name": "أسامة السيد",
+    "speciality": "باطنة",
+    "phone": "000000000",
+    "hospital": "مشفى",
+    "available_from": "10:00:00",
+    "available_to": "12:00:00"
+  }
+},
+{
+  "model": "doctors.doctor",
+  "pk": 5,
+  "fields": {
+    "name": "زينب محمد",
+    "speciality": "أطفال",
+    "phone": "00000000",
+    "hospital": "مشفى",
+    "available_from": "16:00:00",
+    "available_to": "19:00:00"
+  }
+},
+{
+  "model": "doctors.doctor",
+  "pk": 6,
+  "fields": {
+    "name": "تهاني محمد",
+    "speciality": "جلدية",
+    "phone": "0000000",
+    "hospital": "مشفى",
+    "available_from": "09:30:00",
+    "available_to": "12:00:00"
+  }
+},
+{
+  "model": "doctors.doctor",
+  "pk": 7,
+  "fields": {
+    "name": "ناديا أحمد",
+    "speciality": "عيون",
+    "phone": "0000000",
+    "hospital": "مشفى",
+    "available_from": "15:00:00",
+    "available_to": "18:00:00"
+  }
+},
+{
+  "model": "doctors.doctor",
+  "pk": 8,
+  "fields": {
+    "name": "ليلى محمد",
+    "speciality": "نساء و ولادة",
+    "phone": "0000000",
+    "hospital": "مشفى",
+    "available_from": "12:00:00",
+    "available_to": "16:00:00"
+  }
+}
+]
